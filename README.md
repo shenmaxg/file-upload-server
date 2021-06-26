@@ -4,6 +4,10 @@
 ### 介绍
 使用 SpringBoot 搭建的文件上传服务端。负责切片文件的接收，文件 Hash 值记录。
 
+配合项目 file-upload-react 使用，项目的完整预览效果如下：
+
+
+
 ### 启动
 运行 FileUploadServerApplication 中的 main 方法。服务会启动在 8080 端口。
 
